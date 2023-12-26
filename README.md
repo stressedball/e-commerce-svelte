@@ -1,6 +1,7 @@
 # A svelte e-commerce app
 
 Practicing Svelte.
+Live demo : https://fun-e-commerce.netlify.app/
 
 ## API
 
