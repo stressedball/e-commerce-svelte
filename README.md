@@ -12,4 +12,8 @@ Content of site totally rendered by calls to the API.
 
 Svelte / TS
 
+## Deployment
+
+Ended on Netlify, easier and more straightforward than GH pages.
+
 

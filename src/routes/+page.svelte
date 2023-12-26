@@ -49,11 +49,6 @@
 </section>
 
 <style>
-	@font-face {
-		src: url("/fonts/Montserrat/static/Montserrat-Regular.ttf");
-		font-family: "Montserrat";
-	}
-
 	section {
 		overflow: hidden;
 		display: flex;
@@ -70,10 +65,6 @@
 		font-size: 1.4em;
 		text-wrap: balance;
 		padding: 1em 0;
-	}
-
-	header p:nth-child(2) {
-		font-family: "Montserrat";
 	}
 
 	header p:nth-child(3) {
