@@ -15,7 +15,6 @@
 		menu_button_top = 69 - window.scrollY;
 		if (menu_button_top < 0) menu_button_top = 0;
 	};
-
 </script>
 
 <svelte:window on:scroll={() => handle_menu_position()} />
